@@ -6,7 +6,7 @@ One-stop-shop bash script for turning a fresh Debian machine into a useful dev e
 
 ## Use case
 
-The primary use case is setting up a development server on a **Debian VM running inside an Android Linux VM host** (e.g. via Termux, UserLAnd, or similar). This gives you a portable coding environment with Java/Node.js toolchains, opencode CLI with a Telegram bot bridge, VS Code Server — accessible from your phone or any browser on the local network.
+The primary use case is setting up a development server on a **Debian VM running inside an Android host** (e.g. via Termux, UserLAnd, or similar). This gives you a portable coding environment with Java/Node.js toolchains, opencode CLI with a Telegram bot bridge, VS Code Server — accessible from your phone or any browser on the local network.
 
 ## Roadmap
 

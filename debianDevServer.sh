@@ -341,7 +341,7 @@ print_summary() {
 main() {
     echo -e "${BOLD}${MAGENTA}"
     echo "  ╔══════════════════════════════════════════╗"
-    echo "  ║       debianDevServer v${SCRIPT_VERSION}               ║"
+    echo "  ║       debianDevServer v${SCRIPT_VERSION}             ║"
     echo "  ╚══════════════════════════════════════════╝"
     echo -e "${NC}"
 
